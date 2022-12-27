@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CKleijn/count.svg?"  />
+ <img src="https://visitcount.itsvg.in/api?id=CKLeijn&icon=5&color=8">
 </div>
 
 ###
